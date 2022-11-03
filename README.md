@@ -8,12 +8,12 @@ Building a Binary Text Classifier to classify the sentiment behind the text/revi
 
 Streamlit Model Output Test Case 1
 
-![alt text](https://github.com/AkashSapariya/NLP-Sentiment-Analysis-of-User-Reviews/blob/main/Negative%20Review.jpg)
+[![image](https://github.com/AkashSapariya/NLP-Sentiment-Analysis-of-User-Reviews/blob/main/Negative%20Review.jpg)](https://akashsapariya-nlp-sentiment-analysis-of-user-revi-deploy-vphh8a.streamlit.app/)
 
 Streamlit Model Output Test Case 2
 
-![alt text](https://github.com/AkashSapariya/NLP-Sentiment-Analysis-of-User-Reviews/blob/main/Positive%20Review.jpg)
+[![image](https://github.com/AkashSapariya/NLP-Sentiment-Analysis-of-User-Reviews/blob/main/Positive%20Review.jpg)](https://akashsapariya-nlp-sentiment-analysis-of-user-revi-deploy-vphh8a.streamlit.app/)
 
 Streamlit Model Output Test Case 2
 
-![alt text](https://github.com/AkashSapariya/NLP-Sentiment-Analysis-of-User-Reviews/blob/main/Neutral%20Review.jpg)
+[![image](https://github.com/AkashSapariya/NLP-Sentiment-Analysis-of-User-Reviews/blob/main/Neutral%20Review.jpg)](https://akashsapariya-nlp-sentiment-analysis-of-user-revi-deploy-vphh8a.streamlit.app/)
